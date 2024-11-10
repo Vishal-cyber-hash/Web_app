@@ -3,7 +3,7 @@ from pymongo import MongoClient
 import pandas as pd
 
 # MongoDB Atlas connection string
-MONGO_URI = "mongodb+srv://Vishu:vdONpmr0BXz6leVg@cluster0.8q6fo.mongodb.net/yourDatabaseName?retryWrites=true&w=majority"
+MONGO_URI = "mongodb+srv://Vishu:vdONpmr0BXz6leVg@cluster0.8q6fo.mongodb.net/web?retryWrites=true&w=majority"
 client = MongoClient(MONGO_URI)
 db = client.get_database()  # Use your database name
 credentials_collection = db.credentials  # Name of the collection
