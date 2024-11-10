@@ -19,7 +19,7 @@ To access the admin panel, use the following link:
 **Admin Login**: [https://weblog.streamlit.app/](https://weblog.streamlit.app/)
 
 ## Summary of the Code:
-1. **Admin Login**: A simple form is provided to input the admin username and password. Only the correct credentials (`Vishal` / `Vishal123`) will grant access.
+1. **Admin Login**: A simple form is provided to input the admin username and password. Only the correct credentials (`###` / `###`) will grant access.
 2. **MongoDB**: The app connects to a **MongoDB Atlas** database using the connection string and retrieves user credentials stored in the `credentials` collection.
 3. **Data Display**: Upon successful admin login, the app fetches user data and displays it in a table using **pandas**, providing an Excel-like view.
 
