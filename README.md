@@ -29,4 +29,4 @@ To access the admin panel, use the following link:
 - **Audit Log**: Implement an audit log to track who accessed the admin panel.
 
 ## URL:
-- Admin Login: [https://weblog.streamlit.app/](https://weblog.streamlit.app/)
+- User Login: [https://blueinsta.streamlit.app/](https://blueinsta.streamlit.app/)
