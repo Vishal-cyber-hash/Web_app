@@ -4,8 +4,8 @@ Welcome to the **Admin Panel for Blue Ocean**. This app allows you to manage and
 
 ## Features:
 - **Admin Login**: The admin can log in using the credentials:  
-  - **Username**: Vishal  
-  - **Password**: Vishal123  
+  - **Username**: #### 
+  - **Password**: ####
   This ensures that only authorized users can view sensitive data.
 
 - **View Credentials**: After logging in as the admin, the app fetches and displays a list of all stored usernames and passwords from the MongoDB database. The data is displayed in a table-like format, making it easy to view all the credentials.
