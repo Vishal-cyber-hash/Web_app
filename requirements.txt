@@ -1,1 +1,4 @@
 streamlit==1.39.0
+pymango==0.1.1
+pymongo==4.10.1
+pandas==2.2.2
